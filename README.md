@@ -1,5 +1,11 @@
-### Hi there 👋
+### Moikka! I'm Tuan Vu Hoang Quang 👋
+- :computer: I’m learning Java (Spring, Spring Boot), JavaScript / TypeSrcipt (React, Node, Express), SQL (MySQL) and NoSQL (Mongo)
+- :blue_book: I speak :uk:, :czech_republic:, :de: and :vietnam:. I'm interested in learning :kr:, :jp:, :ru:, :portugal:, :netherlands:, :sweden:, :fr:, :saudi_arabia:, :cn: and :finland: 
+- :zap: I'm interested in Coding :scroll:, Art / Digital Art :art:, 3D Modeling :sunrise_over_mountains:, Martial Arts :kimono:, Calisthenics :muscle:, Languages :books:, Photography :camera: and Guitar :musical_score:
+<br>
 
+#### Languages and tools
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Java.svg" />
 <!--
 **Niyutoraru/Niyutoraru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
