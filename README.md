@@ -1,5 +1,5 @@
 ### Moikka! I'm Tuan 👋
-Hi, my name is Tuan Vu Hoang Quang and I'm a Computer Science student
+Hi, my name is **Tuan Vu Hoang Quang** and I'm a **Computer Science** student
 
 <span><img width="20%" align="right" alt="rick" src="https://media.giphy.com/media/kyKuZzsa6bShl3SaHe/giphy.gif" /><span/>
 <br><br>
