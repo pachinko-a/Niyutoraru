@@ -6,7 +6,8 @@
 
 #### Languages and Tools
 <p>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
+  <code><img width="10%" src="img/github.svg"></code>
+  <code><img width="10%" src="img/vscode.svg"></code>
 </p>
 <!--
 **Niyutoraru/Niyutoraru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
