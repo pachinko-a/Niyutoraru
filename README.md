@@ -13,22 +13,22 @@ Hi, my name is **Tuan Vu Hoang Quang** and I'm a **Computer Science** student
 <div>
     <p>
       <code><img width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/github.svg?raw=true"></code>
-      <code><img width="5%" src="img/vscode.svg"></code>
-      <code><img width="5%" src="img/html.svg"></code>
-      <code><img width="5%" src="img/css.svg"></code>
+      <code><img width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/vscode.svg?raw=true"></code>
+      <code><img width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/html.svg?raw=true"></code>
+      <code><img width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/css.svg?raw=true"></code>
       <br><br>
-      <code><img width="5%" src="img/sass.svg"></code>
-      <code><img width="5%" src="img/javascript.svg"></code>
-      <code><img width="5%" src="img/typescript.svg"></code>
-      <code><img width="5%" src="img/java.svg"></code>
+      <code><img width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/sass.svg?raw=true"></code>
+      <code><img width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/javascript.svg?raw=true"></code>
+      <code><img width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/typescript.svg?raw=true"></code>
+      <code><img width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/java.svg?raw=true"></code>
       <br><br>
-      <code><img width="5%" src="img/reactjs.svg"></code>
-      <code><img width="5%" src="img/nodejs.svg"></code>
-      <code><img width="5%" src="img/express.svg"></code>
-      <code><img width="5%" src="img/spring.svg"></code>
+      <code><img width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/reactjs.svg?raw=true"></code>
+      <code><img width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/nodejs.svg?raw=true"></code>
+      <code><img width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/express.svg?raw=true"></code>
+      <code><img width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/spring.svg?raw=true"></code>
       <br><br>
-      <code><img width="5%" src="img/mongodb.svg"></code>
-      <code><img width="5%" src="img/mysql.svg"></code> 
+      <code><img width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/mongodb.svg?raw=true"></code>
+      <code><img width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/mysql.svg?raw=true"></code>
     <p/>
 <div/>
 <!--
