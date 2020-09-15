@@ -2,7 +2,7 @@
 <img width="20%" align="right" alt="rick" src="https://media.giphy.com/media/kyKuZzsa6bShl3SaHe/giphy.gif" />
 <br><br>
 
-- :computer: I’m learning Java (Spring, Spring Boot), JavaScript / TypeSrcipt (React, Node, Express), SQL (MySQL) and NoSQL (MongoDB)
+- :computer: I’m learning to code
 - :blue_book: I speak :uk:, :czech_republic:, :de: and :vietnam:. I'm interested in learning :kr:, :jp:, :ru:, :portugal:, :netherlands:, :sweden:, :fr:, :saudi_arabia:, :cn: and :finland: 
 - :zap: I'm interested in Coding :scroll:, Art / Digital Art :art:, 3D Modeling :sunrise_over_mountains:, Martial Arts :kimono:, Calisthenics :muscle:, Languages :books:, Photography :camera: and Guitar :musical_score:
 <br>
