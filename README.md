@@ -9,32 +9,25 @@
 
 #### Languages and Tools
 <div>
-  <div>
     <p>
       <code><img width="5%" src="img/github.svg"></code>
       <code><img width="5%" src="img/vscode.svg"></code>
-      <br><br>
       <code><img width="5%" src="img/html.svg"></code>
       <code><img width="5%" src="img/css.svg"></code>
-      <code><img width="5%" src="img/sass.svg"></code>
       <br><br>
+      <code><img width="5%" src="img/sass.svg"></code>
       <code><img width="5%" src="img/javascript.svg"></code>
       <code><img width="5%" src="img/typescript.svg"></code>
       <code><img width="5%" src="img/java.svg"></code>
-    <p/>
-  <div/>
-  <div>
-    <p>
-      <code><img width="5%" src="img/reactjs.svg"></code>
       <br><br>
+      <code><img width="5%" src="img/reactjs.svg"></code>
       <code><img width="5%" src="img/nodejs.svg"></code>
       <code><img width="5%" src="img/express.svg"></code>
       <code><img width="5%" src="img/spring.svg"></code>
       <br><br>
       <code><img width="5%" src="img/mongodb.svg"></code>
-      <code><img width="5%" src="img/mysql.svg"></code>  
+      <code><img width="5%" src="img/mysql.svg"></code> 
     <p/>
-  <div/>
 <div/>
 <!--
 **Niyutoraru/Niyutoraru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
