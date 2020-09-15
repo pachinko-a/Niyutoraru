@@ -1,7 +1,7 @@
 ### Moikka! I'm Tuan 👋
 Hi, my name is **Tuan Vu Hoang Quang** and I'm a **Computer Science** student from **Prague**
 
-<span><img width="40%" align="right" alt="rick" src="https://media.giphy.com/media/kyKuZzsa6bShl3SaHe/giphy.gif" /><span/>
+<span><img width="30%" align="right" alt="rick" src="https://giphy.com/stickers/hacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe" /><span/>
 <br><br>
 
 - :computer: I’m currently learning to code and digital art
