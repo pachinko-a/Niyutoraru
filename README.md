@@ -12,7 +12,7 @@ Hi, my name is **Tuan Vu Hoang Quang** and I'm a **Computer Science** student
 #### Languages and Tools
 <div>
     <p>
-      <code><img width="5%" src="/img/github.svg"></code>
+      <code><img width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/github.svg?raw=true"></code>
       <code><img width="5%" src="img/vscode.svg"></code>
       <code><img width="5%" src="img/html.svg"></code>
       <code><img width="5%" src="img/css.svg"></code>
