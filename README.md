@@ -8,6 +8,10 @@
 <p>
   <code><img width="10%" src="img/github.svg"></code>
   <code><img width="10%" src="img/vscode.svg"></code>
+  <br>
+  <code><img width="10%" src="img/html.svg"></code>
+  <code><img width="10%" src="img/css.svg"></code>
+  <code><img width="10%" src="img/sass.svg"></code>
 </p>
 <!--
 **Niyutoraru/Niyutoraru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
