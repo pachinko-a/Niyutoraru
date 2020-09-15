@@ -17,7 +17,7 @@
   <code><img width="5%" src="img/typescript.svg"></code>
   <code><img width="5%" src="img/java.svg"></code>
   <br><br>
-  <code><img width="5%" src="img/react.svg"></code>
+  <code><img width="5%" src="img/.svg"></code>
   <br><br>
   <code><img width="5%" src="img/node.svg"></code>
   <code><img width="5%" src="img/express.svg"></code>
