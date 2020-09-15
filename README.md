@@ -6,8 +6,8 @@ Hi, my name is **Tuan Vu Hoang Quang** and I'm a **Computer Science** student fr
 
 - :computer: I’m currently learning to code and digital art
 - :blue_book: I speak :uk:, :czech_republic:, :de: and :vietnam:. I'm interested in learning :kr:, :jp:, :ru:, :portugal:, :netherlands:, :sweden:, :fr:, :saudi_arabia:, :cn: and :finland: 
-- :zap: I'm interested in Coding :scroll:, Art / Digital Art :art:, 3D Modeling :sunrise_over_mountains:, Martial Arts :kimono:, Calisthenics :muscle:, Languages :books:, Photography :camera: and Guitar :musical_score:    
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering
+- :zap: I'm interested in Coding :scroll:, Art / Digital Art :art:, 3D Modeling :sunrise_over_mountains:, Martial Arts :kimono:, Calisthenics :muscle:, Languages :books:, Photography :camera: and Guitar :musical_score:    
 
 <br>
 
