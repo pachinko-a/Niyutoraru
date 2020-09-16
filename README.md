@@ -2,7 +2,7 @@
 Hi, my name is **Tuan Vu Hoang Quang** and I'm a **Computer Science** student from **Prague**
 
 <span><img width="30%" align="right" alt="rick" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" /><span/>
-<br><br><br>
+<br><br>
 
 - :computer: I’m currently learning to code and digital art
 - 💬 Ask me about anything, I am happy to help
