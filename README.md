@@ -1,9 +1,6 @@
 ### Moikka! I'm Tuan 👋
 Hi, my name is **Tuan Vu Hoang Quang** and I'm a **Computer Science** student from **Prague**
 
-<span><img width="30%" align="right" alt="rick" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" /><span/>
-<br><br>
-
 - :computer: I’m currently learning to code and digital art
 - 💬 Ask me about anything, I am happy to help
 - :blue_book: I speak :uk:, :czech_republic:, :de: and :vietnam:. I'm interested in learning :kr:, :jp:, :ru:, :portugal:, :netherlands:, :sweden:, :fr:, <br>
@@ -42,6 +39,8 @@ GIF Links:
 https://giphy.com/stickers/hacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe
 https://giphy.com/stickers/Sushiboxru-cat-kitten-sushistik-f6hnhHkks8bk4jwjh3
 https://giphy.com/stickers/rickandmorty-season-4-episode-8-rick-and-morty-kyKuZzsa6bShl3SaHe
+
+<span><img width="30%" align="right" alt="rick" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" /><span/>
 
 Here are some ideas to get you started:
 
