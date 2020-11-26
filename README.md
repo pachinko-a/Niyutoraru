@@ -1,34 +1,37 @@
 ### Moikka! I'm Tuan 👋
+
 Hi, my name is **Tuan Vu Hoang Quang** and I'm a **Computer Science** student from **Prague**
 <br>
 
 - :computer: I’m currently learning to code and digital art
 - 💬 Ask me about anything, I am happy to help
 - :blue_book: I speak :uk:, :czech_republic:, :de: and :vietnam:. I'm interested in learning :kr:, :jp:, :ru:, :portugal:, :netherlands:, :sweden:, :fr:, <br>
-:saudi_arabia:, :cn: and :finland: 
-- :zap: I'm interested in Coding :scroll:, Art / Digital Art :art:, 3D Modeling :sunrise_over_mountains:, <br> 
-Martial Arts :kimono:, Calisthenics :muscle:, Languages :books:, Photography :camera: and Guitar :musical_score:    
+  :saudi_arabia:, :cn: and :finland:
+- :zap: I'm interested in Coding :scroll:, Art / Digital Art :art:, 3D Modeling :sunrise_over_mountains:, <br>
+  Martial Arts :kimono:, Calisthenics :muscle:, Languages :books:, Photography :camera: and Guitar :musical_score:
 
 #### Languages and Tools
+
 <div>
     <p>
-      <code><img width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/github.svg?raw=true"></code>
-      <code><img width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/vscode.svg?raw=true"></code>
-      <code><img width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/html.svg?raw=true"></code>
-      <code><img width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/css.svg?raw=true"></code>
+      <code><img alt="Github" width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/github.svg?raw=true"></code>
+      <code><img alt="VS Code" width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/vscode.svg?raw=true"></code>
+      <code><img alt="HTML" width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/html.svg?raw=true"></code>
+      <code><img alt="CSS" width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/css.svg?raw=true"></code>
       <br><br>
-      <code><img width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/sass.svg?raw=true"></code>
-      <code><img width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/javascript.svg?raw=true"></code>
-      <code><img width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/typescript.svg?raw=true"></code>
-      <code><img width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/java.svg?raw=true"></code>
+      <code><img alt="Sass" width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/sass.svg?raw=true"></code>
+      <code><img alt="javaScript" width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/javascript.svg?raw=true"></code>
+      <code><img alt="TypeScript" width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/typescript.svg?raw=true"></code>
+      <code><img alt="Java" width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/java.svg?raw=true"></code>
       <br><br>
-      <code><img width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/reactjs.svg?raw=true"></code>
-      <code><img width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/nodejs.svg?raw=true"></code>
-      <code><img width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/express.svg?raw=true"></code>
-      <code><img width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/spring.svg?raw=true"></code>
+      <code><img alt="React" width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/reactjs.svg?raw=true"></code>
+      <code><img alt="NodeJS" width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/nodejs.svg?raw=true"></code>
+      <code><img alt="Express" width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/express.svg?raw=true"></code>
+      <code><img alt="Spring Boot" width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/spring.svg?raw=true"></code>
       <br><br>
-      <code><img width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/mongodb.svg?raw=true"></code>
-      <code><img width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/mysql.svg?raw=true"></code>
+      <code><img alt="MongoDB" width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/mongodb.svg?raw=true"></code>
+      <code><img alt="MySQL" width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/mysql.svg?raw=true"></code>
+      <code><img alt="Puppeteer" width="5%" src="https://github.com/Niyutoraru/Niyutoraru/blob/master/img/puppeteer.svg?raw=true"></code>
     <p/>
 <div/>
 <!--
@@ -51,4 +54,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
