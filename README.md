@@ -14,8 +14,17 @@ Hi, I'm Tuan, from the <img src="https://image.flaticon.com/icons/png/512/197/19
   </p>
 <br>
 
-<h4>Technologies and tools</h4>
-<div></div>
+<h4>Currently learning:</h4>
+<div>
+  <p>
+    <img alt="Angular" src="https://img.shields.io/badge/-Angular-DC143C?style=flat-square&logo=angular&logoColor=white" />
+    <img alt="NestJS" src="https://img.shields.io/badge/-NestJS.js-404D59?style=flat-square&logo=nestjs.js&logoColor=white" />
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-00000F?style=flat-square&logo=postgresql&logoColor=white" />
+  </p>
+</div>
+
+<h4>Technologies and tools I've tried:</h4>
+<div>
   <p>
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -40,10 +49,12 @@ Hi, I'm Tuan, from the <img src="https://image.flaticon.com/icons/png/512/197/19
   <p>
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
     <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-404D59?style=flat-square&logo=express.js&logoColor=white" />
+    <img alt="NestJS" src="https://img.shields.io/badge/-NestJS.js-404D59?style=flat-square&logo=nestjs.js&logoColor=white" />
     <img alt="Puppeteer" src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" />
   </p>
   <p>
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-00000F?style=flat-square&logo=postgresql&logoColor=white" />
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
   </p>
   <p>
