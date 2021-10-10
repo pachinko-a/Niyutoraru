@@ -87,7 +87,7 @@ Hi, I'm Tuan, from the <img src="https://image.flaticon.com/icons/png/512/197/19
   </p>
 </div>
 
-<h4>Technologies and tools I'd like to learn:</h4>
+<h4>Technologies and tools I'd like to learn/try:</h4>
 <div>
   <p>
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" />
