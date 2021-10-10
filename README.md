@@ -14,12 +14,13 @@ Hi, I'm Tuan, from the <img src="https://image.flaticon.com/icons/png/512/197/19
   </p>
 <br>
 
-<h4>Currently learning:</h4>
+<h4>Technologies and tools I'm currently learning:</h4>
 <div>
   <p>
     <img alt="Angular" src="https://img.shields.io/badge/-Angular-DC143C?style=flat-square&logo=angular&logoColor=white" />
-    <img alt="NestJS" src="https://img.shields.io/badge/-NestJS.js-404D59?style=flat-square&logo=nestjs.js&logoColor=white" />
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-00000F?style=flat-square&logo=postgresql&logoColor=white" />
+    <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+    <img alt="RxJS" src="https://img.shields.io/badge/-RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   </p>
 </div>
 
@@ -43,18 +44,30 @@ Hi, I'm Tuan, from the <img src="https://image.flaticon.com/icons/png/512/197/19
   <p>
     <img alt="React" src="https://img.shields.io/badge/-React-00BFFF?style=flat-square&logo=react&logoColor=white" />
     <img alt="React Router" src="https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
+    <img alt="Redux" src="https://img.shields.io/badge/-Redux-593d88?style=flat-square&logo=redux&logoColor=white" />
     <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
     <img alt="Angular" src="https://img.shields.io/badge/-Angular-DC143C?style=flat-square&logo=angular&logoColor=white" />
+    <img alt="RxJS" src="https://img.shields.io/badge/-RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
   </p>
   <p>
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-    <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-404D59?style=flat-square&logo=express.js&logoColor=white" />
-    <img alt="NestJS" src="https://img.shields.io/badge/-NestJS.js-404D59?style=flat-square&logo=nestjs.js&logoColor=white" />
+    <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
+    <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+    <img alt="Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white" />
     <img alt="Puppeteer" src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" />
+    <img alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white" />
+    <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON&logoColor=white" />
+  </p>
+  <p>
+    <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+    <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  </p>
+  <p>
+    <img alt="NPM" src="https://img.shields.io/badge/-NPM-D84040?style=flat-square&logo=npm&logoColor=white" />
   </p>
   <p>
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-00000F?style=flat-square&logo=postgresql&logoColor=white" />
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
   </p>
   <p>
@@ -73,6 +86,16 @@ Hi, I'm Tuan, from the <img src="https://image.flaticon.com/icons/png/512/197/19
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   </p>
 </div>
+
+<h4>Technologies and tools I'd like to learn:</h4>
+<div>
+  <p>
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" />
+    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+    <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  </p>
+</div>
+
 <br>
 
 `About me`
@@ -98,9 +121,9 @@ const about = {
         "psychology",
     ],
     queue: {
-        technologies: ["Angular", "Dart", "Flutter", "GraphQL"],
+        technologies: [...technologyStack],
         languages: [...polyglotJourney],
-        psychology: ["NLP"],
+        psychology: ["NLP", "Nonverbal communication"],
     },
 };
 ```
