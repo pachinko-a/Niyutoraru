@@ -40,6 +40,7 @@ Hi, I'm Tuan, from the <img src="https://image.flaticon.com/icons/png/512/197/19
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1E90FF?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+    <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
   </p>
   <p>
     <img alt="React" src="https://img.shields.io/badge/-React-00BFFF?style=flat-square&logo=react&logoColor=white" />
