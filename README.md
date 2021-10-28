@@ -17,7 +17,8 @@ Hi, I'm Tuan, from the <img src="https://image.flaticon.com/icons/png/512/197/19
 <h4>Technologies and tools I'm currently learning:</h4>
 <div>
   <p>
-    <img alt="Angular" src="https://img.shields.io/badge/-Angular-DC143C?style=flat-square&logo=angular&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/-React-00BFFF?style=flat-square&logo=react&logoColor=white" />
+    <img alt="NextJS" src="https://img.shields.io/badge/-Next-000000?style=flat-square&logo=next.js&logoColor=white" />
     <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
     <img alt="RxJS" src="https://img.shields.io/badge/-RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
     <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
@@ -46,6 +47,7 @@ Hi, I'm Tuan, from the <img src="https://image.flaticon.com/icons/png/512/197/19
     <img alt="React" src="https://img.shields.io/badge/-React-00BFFF?style=flat-square&logo=react&logoColor=white" />
     <img alt="React Router" src="https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
     <img alt="Redux" src="https://img.shields.io/badge/-Redux-593d88?style=flat-square&logo=redux&logoColor=white" />
+    <img alt="NextJS" src="https://img.shields.io/badge/-Next-000000?style=flat-square&logo=next.js&logoColor=white" />
     <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
     <img alt="Angular" src="https://img.shields.io/badge/-Angular-DC143C?style=flat-square&logo=angular&logoColor=white" />
     <img alt="RxJS" src="https://img.shields.io/badge/-RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
