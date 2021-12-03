@@ -19,9 +19,9 @@ Hi, I'm Tuan, from the <img src="https://image.flaticon.com/icons/png/512/197/19
   <p>
     <img alt="React" src="https://img.shields.io/badge/-React-00BFFF?style=flat-square&logo=react&logoColor=white" />
     <img alt="NextJS" src="https://img.shields.io/badge/-Next-000000?style=flat-square&logo=next.js&logoColor=white" />
-    <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-    <img alt="RxJS" src="https://img.shields.io/badge/-RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1E90FF?style=flat-square&logo=typescript&logoColor=white" />
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
+    <img alt="StyledComponents" src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
   </p>
 </div>
 
