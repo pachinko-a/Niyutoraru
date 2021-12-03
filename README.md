@@ -14,7 +14,7 @@ Hi, I'm Tuan, from the <img src="https://image.flaticon.com/icons/png/512/197/19
   </p>
 <br>
 
-<h4>Technologies I'm currently learning:</h4>
+<h4>Technologies and tools I'm currently learning:</h4>
 <div>
   <p>
     <img alt="React" src="https://img.shields.io/badge/-React-00BFFF?style=flat-square&logo=react&logoColor=white" />
