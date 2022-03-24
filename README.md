@@ -2,7 +2,7 @@
 
 ---
 
-Hi, I'm Tuan, from the <img src="https://image.flaticon.com/icons/png/512/197/197576.png" width="14" /> Czech Republic.
+Hi, I'm Tuan, from the Czech Republic.
 
   <p>
     <a href="https://github.com/Niyutoraru/Niyutoraru" target="_blank">
@@ -17,10 +17,11 @@ Hi, I'm Tuan, from the <img src="https://image.flaticon.com/icons/png/512/197/19
 <h4>Technologies and tools I'm currently learning:</h4>
 <div>
   <p>
-    <img alt="Angular" src="https://img.shields.io/badge/-Angular-DC143C?style=flat-square&logo=angular&logoColor=white" />
+    <img alt="NextJS" src="https://img.shields.io/badge/-Next-000000?style=flat-square&logo=next.js&logoColor=white" />
     <img alt="RxJS" src="https://img.shields.io/badge/-RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1E90FF?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
+    <img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
   </p>
 </div>
 
@@ -34,6 +35,7 @@ Hi, I'm Tuan, from the <img src="https://image.flaticon.com/icons/png/512/197/19
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
     <img alt="StyledComponents" src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
+    <img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
   </p>
   <p>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
@@ -94,44 +96,42 @@ Hi, I'm Tuan, from the <img src="https://image.flaticon.com/icons/png/512/197/19
   <p>
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" />
     <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-    <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+    <img alt="Spring Book" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
   </p>
 </div>
 
 <br>
 
-`About me`
+> About me
 
 ```ts
 const about = {
-    name: "Tuan Vu Hoang Quang",
-    languages: ["Czech", "English", "German", "Slovak", "Vietnamese"],
-    passion: [
-        "3D modeling",
-        "anything dumb",
-        "art",
-        "books",
-        "calisthenics",
-        "collecting memes",
-        "digital art",
-        "games",
-        "languages",
-        "martial arts",
-        "photography",
-        "playing guitar",
-        "programming",
-        "psychology",
-    ],
-    queue: {
-        technologies: [...technologyStack],
-        languages: [...polyglotJourney],
-        psychology: ["NLP", "Nonverbal communication"],
-    },
+  name: "Tuan Vu Hoang Quang",
+  languages: ["Czech", "English", "German", "Slovak", "Vietnamese"],
+  passion: [
+    "3D modeling",
+    "anything dumb",
+    "art",
+    "books",
+    "calisthenics",
+    "collecting memes",
+    "digital art",
+    "games",
+    "languages",
+    "martial arts",
+    "photography",
+    "playing guitar",
+    "programming",
+    "psychology",
+  ],
 };
 ```
 
 <!--
 **Niyutoraru/Niyutoraru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+# shield.io badges examples
+https://dev.to/envoy_/150-badges-for-github-pnk
 
 Here are some ideas to get you started:
 
