@@ -101,6 +101,7 @@ Hi, I'm Tuan, from the Czech Republic.
   <p>
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" />
     <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+    <img alt="ApolloGraphQL" src="https://img.shields.io/badge/ApolloGraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
     <img alt="Spring Book" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
   </p>
 </div>
@@ -136,6 +137,7 @@ const about = {
 
 # shield.io badges examples
 https://dev.to/envoy_/150-badges-for-github-pnk
+https://github.com/Ileriayo/markdown-badges
 
 Here are some ideas to get you started:
 
