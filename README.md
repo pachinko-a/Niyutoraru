@@ -17,9 +17,11 @@ Hi, I'm Tuan, from the Czech Republic.
 <h4>Technologies and tools I'm currently learning:</h4>
 <div>
   <p>
-    <img alt="NextJS" src="https://img.shields.io/badge/-Next-000000?style=flat-square&logo=next.js&logoColor=white" />
+    <img alt="Angular" src="https://img.shields.io/badge/-Angular-DC143C?style=flat-square&logo=angular&logoColor=white" />
     <img alt="RxJS" src="https://img.shields.io/badge/-RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
+    <img alt="NgRx" src="https://img.shields.io/badge/-NgRx-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1E90FF?style=flat-square&logo=typescript&logoColor=white" />
+    <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
     <img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
   </p>
@@ -52,6 +54,7 @@ Hi, I'm Tuan, from the Czech Republic.
     <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
     <img alt="Angular" src="https://img.shields.io/badge/-Angular-DC143C?style=flat-square&logo=angular&logoColor=white" />
     <img alt="RxJS" src="https://img.shields.io/badge/-RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
+    <img alt="NgRx" src="https://img.shields.io/badge/-NgRx-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
   </p>
   <p>
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
@@ -107,10 +110,9 @@ Hi, I'm Tuan, from the Czech Republic.
 ```ts
 const about = {
   name: "Tuan Vu Hoang Quang",
-  languages: ["Czech", "English", "German", "Slovak", "Vietnamese"],
+  languages: ["Czech", "English", "German", "Vietnamese"],
   passion: [
     "3D modeling",
-    "anything dumb",
     "art",
     "books",
     "calisthenics",
