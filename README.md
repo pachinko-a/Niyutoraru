@@ -22,6 +22,7 @@ Hi, I'm Tuan, from the Czech Republic.
     <img alt="NgRx" src="https://img.shields.io/badge/-NgRx-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1E90FF?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+    <img alt="Nx" src="https://img.shields.io/badge/-nx-143055?style=flat-square&logo=nx&logoColor=white" />
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
     <img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
   </p>
@@ -60,6 +61,7 @@ Hi, I'm Tuan, from the Czech Republic.
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
     <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
     <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+    <img alt="Nx" src="https://img.shields.io/badge/-nx-143055?style=flat-square&logo=nx&logoColor=white" />
     <img alt="Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white" />
     <img alt="Puppeteer" src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" />
     <img alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white" />
