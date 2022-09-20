@@ -22,7 +22,6 @@ Hi, I'm Tuan, from the Czech Republic.
     <img alt="NgRx" src="https://img.shields.io/badge/-NgRx-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1E90FF?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-    <img alt="Nx" src="https://img.shields.io/badge/-nx-143055?style=flat-square&logo=nx&logoColor=white" />
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
     <img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
   </p>
@@ -100,9 +99,11 @@ Hi, I'm Tuan, from the Czech Republic.
 <div>
   <p>
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" />
+    <img alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" />
     <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
     <img alt="ApolloGraphQL" src="https://img.shields.io/badge/ApolloGraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
     <img alt="Spring Book" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+    <img alt="Nx" src="https://img.shields.io/badge/-nx-143055?style=flat-square&logo=nx&logoColor=white" />
   </p>
 </div>
 
