@@ -86,6 +86,7 @@ Hi, I'm Tuan, from the Czech Republic.
     <img alt="Skype" src="https://img.shields.io/badge/Skype-00AFF0?style=flat-square&logo=skype&logoColor=white" />
   </p>
   <p>
+    <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white" />
     <img alt="Affinity Photo" src="https://img.shields.io/badge/Affinity_Photo-7E4DD2?style=flat-square&logo=affinityphoto&logoColor=white" />
     <img alt="Affinity Designer" src="https://img.shields.io/badge/Affinity_Designer-1B72BE?style=flat-square&logo=affinitydesigner&logoColor=white" />
     <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
