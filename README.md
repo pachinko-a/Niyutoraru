@@ -17,6 +17,8 @@ Hi, I'm Tuan, from the Czech Republic.
 <h4>Technologies and tools I'm currently learning:</h4>
 <div>
   <p>
+    <img alt="NextJS" src="https://img.shields.io/badge/-Next-000000?style=flat-square&logo=next.js&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/-React-00BFFF?style=flat-square&logo=react&logoColor=white" />
     <img alt="Angular" src="https://img.shields.io/badge/-Angular-DC143C?style=flat-square&logo=angular&logoColor=white" />
     <img alt="RxJS" src="https://img.shields.io/badge/-RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
     <img alt="NgRx" src="https://img.shields.io/badge/-NgRx-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
